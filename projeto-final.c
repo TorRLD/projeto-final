@@ -21,7 +21,7 @@
  *
  *    Tela inicial: Exibe "FruitLife Device" no OLED e toca uma musiquinha via buzzer.
  *
- *    Adaptado e expandido por [Seu Nome]
+ *    Adaptado e expandido por Heitor Lemos TIC370100366
  */
 
  #include "pico/stdlib.h"
